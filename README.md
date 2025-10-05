@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Emran Nasser</h1>
-<h3 align="center">A Software Engineer focused on AI, IoT, Healthcare, and Education</h3>
+<h2 align="center">Hi 👋, I'm Emran Nasser</h2>
+<h4 align="center">A Software Engineer focused on AI, IoT, Healthcare, and Education</h4>
 
 
 - 👨‍💻 All of my projects are available on my [https://github.com/Emran025](https://github.com/Emran025)
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **amran.naser@ibbuniv.edu.ye**
 
-- ⚡ Fun fact **⚡ Fun fact: **I am passionate about computer mathematics and committed to learning and understanding complex models to contribute to innovative and modern methods in the field of AI.****
+- ### ⚡ Fun fact: **I am passionate about computer mathematics and committed to learning and understanding complex models to contribute to innovative and modern methods in the field of AI.****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
