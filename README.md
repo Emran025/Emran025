@@ -4,13 +4,17 @@
 <h4 align="center">A Software Engineer focused on AI, IoT, Healthcare, and Education</h4>
 
 
-- 👨‍💻 All of my projects are available on my [https://github.com/Emran025](https://github.com/Emran025)
+- ##### 👨‍💻 All of my projects are available on my
+   [https://github.com/Emran025](https://github.com/Emran025)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/emran-nasser-456b16262](https://www.linkedin.com/in/emran-nasser-456b16262)
+- ##### 📝 I regularly write articles on
+   [https://www.linkedin.com/in/emran-nasser-456b16262](https://www.linkedin.com/in/emran-nasser-456b16262)
 
-- 📫 How to reach me **amran.naser@ibbuniv.edu.ye**
+- ##### 📫 How to reach me
+  **amran.naser@ibbuniv.edu.ye**
 
-- ### ⚡ Fun fact: **I am passionate about computer mathematics and committed to learning and understanding complex models to contribute to innovative and modern methods in the field of AI.****
+- ##### ⚡ Fun fact:
+  **I am passionate about computer mathematics and committed to learning and understanding complex models to contribute to innovative and modern methods in the field of AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
