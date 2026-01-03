@@ -34,9 +34,9 @@ I am a **Software Engineer** and **Researcher** architecting the convergence of 
 
 ## GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Emran025&show_icons=true&theme=minimal&hide_border=true&bg_color=transparent&title_color=ffffff&text_color=ffffff&icon_color=79ff97" alt="Emran's Stats" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Emran025&layout=compact&theme=minimal&hide_border=true&bg_color=transparent&title_color=ffffff&text_color=ffffff" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Emran025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=ffffff&text_color=ffffff&icon_color=79ff97" alt="Emran's Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Emran025&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emran025&theme=tokyonight&hide_border=true&background=transparent&date_format=M%20j%5B%2C%20Y%5D&title_color=ffffff&text_color=ffffff" alt="GitHub Streak" />
 </div>
 
 <br>
