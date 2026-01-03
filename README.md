@@ -1,74 +1,65 @@
-<h1 align="center">Hi 👋, I'm Emran Nasser</h1>
-<h3 align="center">Software Engineer | AI & IoT Researcher | Healthcare Technology</h3>
-
-<p align="center">
-  <a href="mailto:amran.naser@ibbuniv.edu.ye">
-    <img src="https://img.shields.io/badge/Email-amran.naser%40ibbuniv.edu.ye-B31B1B?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/emran-nasser-456b16262" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Emran025">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<br>
-
-### 👨‍💻 About Me
-
-- 🔭 **Current Focus:** Integrating mobile application development with high-performance **Artificial Intelligence** models to advance medical applications and developing global health platforms.
-- 🤝 **Collaboration:** I’m looking to collaborate on projects at the intersection of **AI, IoT, and Healthcare**, especially those involving real-time monitoring.
-- 🔬 **Research Interest:** Expanding the reach of global health platforms and researching advanced AI models for **medical diagnostics and predictive analytics**.
-- ⚡ **Fun Fact:** I am passionate about computer mathematics and committed to learning complex models to contribute to innovative methods **in the field of AI**.
-
-<br>
-
-### 🛠️ Languages and Tools
-
+<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-**🤖 AI & Data Science**<br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+# Emran Nasser
 
-<br>**💻 Programming Languages**<br>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+**Software Engineer & AI Researcher**  
+*Specializing in Healthcare Technology, IoT Integration, and Predictive Analytics*
 
-<br>**🌐 Web & Mobile Development**<br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<br>
 
-<br>**🗄️ Databases & Cloud**<br>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<a href="mailto:amran.naser@ibbuniv.edu.ye">
+  <img src="https://img.shields.io/badge/Email-amran.naser%40ibbuniv.edu.ye-B31B1B?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/emran-nasser-456b16262">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Emran025">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<br>**⚙️ Tools & DevOps**<br>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<br><br>
 
+</div>
+
+## 👨‍🔬 Professional Profile
+
+I am a **Software Engineer** and **Researcher** architecting the convergence of **mobile application ecosystems** and high-performance **Artificial Intelligence**. My research focuses on developing scalable **Global Health platforms** and integrating **IoT sensor networks** for real-time medical monitoring. I am driven by the application of rigorous **mathematical modeling** to advance diagnostic accuracy and predictive analytics in resource-constrained environments.
+
+| **Core Competencies** | **Research Focus** |
+| :--- | :--- |
+| • **AI & Machine Learning:** Predictive modeling for clinical diagnostics.<br>• **IoT Integration:** Sensor data synthesis and edge computing.<br>• **Systems Architecture:** Scalable, secure health-tech infrastructure. | • **Medical Diagnostics:** AI-driven early detection systems.<br>• **Global Health:** Accessible technology for underserved populations.<br>• **Computational Theory:** Applied mathematics in algorithmic optimization. |
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emran025&show_icons=true&theme=minimal&hide_border=true&count_private=true&bg_color=0,000000,000000&title_color=fff&text_color=fff&icon_color=79ff97" alt="Emran's Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emran025&layout=compact&theme=minimal&hide_border=true&bg_color=0,000000,000000&title_color=fff&text_color=fff" alt="Top Languages" height="160" />
 </div>
 
 <br>
 
-<h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/Emran025"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Emran025" /></a></p>
-<br><br>
+## 🛠️ Technical Proficiency
+
+| **Domain** | **Technology Stack** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) |
+| **AI & DS (Python)** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) |
+| **AI & DS (R)** | ![ggplot2](https://img.shields.io/badge/ggplot2-%23321545.svg?style=flat-square&logo=ggplot2&logoColor=white) ![dplyr](https://img.shields.io/badge/dplyr-%23106ba3.svg?style=flat-square&logo=r&logoColor=white) ![Shiny](https://img.shields.io/badge/shiny-%23004C88.svg?style=flat-square&logo=r&logoColor=white) ![Caret](https://img.shields.io/badge/caret-%23d81b60.svg?style=flat-square&logo=r&logoColor=white) ![Tidyr](https://img.shields.io/badge/tidyr-%234285F4.svg?style=flat-square&logo=r&logoColor=white) |
+| **Data Mining** | ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![Scrapy](https://img.shields.io/badge/scrapy-%2360A839.svg?style=flat-square&logo=scrapy&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white) ![rvest](https://img.shields.io/badge/rvest-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) |
+| **Web & Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) |
+
+<br>
+
+<div align="center">
+  <h3>🤝 Collaboration & Impact</h3>
+  <p>I am actively seeking conceptual and technical partnerships at the nexus of <b>AI, IoT, and Healthcare</b>.</p>
+  
+  <a href="https://www.buymeacoffee.com/Emran025">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Support Me" />
+  </a>
+</div>
+<br>
